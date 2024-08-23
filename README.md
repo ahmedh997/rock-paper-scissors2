@@ -1,1 +1,1 @@
-# rock-paper-scissors2
+# About my first project on GitHub
